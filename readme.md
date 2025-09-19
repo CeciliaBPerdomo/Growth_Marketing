@@ -10,6 +10,9 @@
     - ¿Qué hace un Growth Marketer?
     - ¿Qué es un funnel de conversión?
 - **Fundamentos de Growth Marketing**
+    - Introducción y persuasión en Growth Marketing
+    - Experimentos A/B para crecer
+    - Optimiza demanda y campañas
 - **Estrategias de Growth Marketing**
 - **Estrategias de crecimiento y ads**
 - **E-mail marketing y automatización**
@@ -19,3 +22,5 @@
 - **Estrategias con GA4**
 - **Psicología y estrategia Growth**
 - **IA Aplicada al Growth**
+
+## Recursos complementarios
