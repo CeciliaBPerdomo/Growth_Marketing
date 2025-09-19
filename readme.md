@@ -2,9 +2,9 @@
     <img src="./Cecilia_Perdomo.png">
 </div>
 
-# Growth Marketing
+# ​​⛓️‍💥​ Growth Marketing
 
-## Temario
+## ​👓​ Temario
 - **Nivelación**
     - Introducción al Growth Marketing
     - ¿Qué hace un Growth Marketer?
@@ -13,8 +13,18 @@
     - Introducción y persuasión en Growth Marketing
     - Experimentos A/B para crecer
     - Optimiza demanda y campañas
+    - Actividad Práctica: Despega con Growth Marketing: ¡Prepárate para impulsar tu estrategia!
 - **Estrategias de Growth Marketing**
+    - Entendiendo al cliente y su impacto
+    - Fundamentos de crecimiento estratégico
+    - Estrategias de adquisición y activación
+    - Herramientas y técnicas de crecimiento
+    - Actividad Práctica: Adquisición y activación de usuarios para el crecimiento sostenido
 - **Estrategias de crecimiento y ads**
+    - Fundamentos y estrategias de Growth
+    - Técnicas avanzadas y optimización
+    - Optimización y estrategia avanzada
+    - Actividad práctica: Estrategias de crecimiento y ads
 - **E-mail marketing y automatización**
 - **Growth en redes**
 - **Publicidad digital en Growth**
@@ -23,4 +33,9 @@
 - **Psicología y estrategia Growth**
 - **IA Aplicada al Growth**
 
-## Recursos complementarios
+## ​​👾​ Recursos complementarios
+
+| 🪡​ Recursos | 🌐​ Web | 
+| ------- | ------| 
+| **Miro**: La innovación redefinida. <br/>Conoce el espacio de innovación, la plataforma de colaboración impulsada por IA que ayuda a tu equipo a crear el producto correcto más rápido. | https://miro.com/es/ | 
+| **Mural** is a visual collaboration platform that gives your teams an AI-powered, interactive space to ideate, align, and execute on your customer-led strategy. | https://www.mural.co/ | 
