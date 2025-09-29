@@ -37,5 +37,7 @@
 
 | 🪡​ Recursos | 🌐​ Web | 
 | ------- | ------| 
-| **Miro**: La innovación redefinida. <br/>Conoce el espacio de innovación, la plataforma de colaboración impulsada por IA que ayuda a tu equipo a crear el producto correcto más rápido. | https://miro.com/es/ | 
-| **Mural** is a visual collaboration platform that gives your teams an AI-powered, interactive space to ideate, align, and execute on your customer-led strategy. | https://www.mural.co/ | 
+| **Miro**: La innovación redefinida. <br/>Conoce el espacio de innovación, la plataforma de colaboración impulsada por IA que ayuda a tu equipo a crear el producto correcto más rápido. | `https://miro.com/es/` | 
+| **Mural** is a visual collaboration platform that gives your teams an AI-powered, interactive space to ideate, align, and execute on your customer-led strategy. | `https://www.mural.co/` | 
+| **Hubspot** Generador de buyer personas | `https://www.hubspot.es/make-my-persona` |
+| **Xtensio** Pick a Template. Build beautiful living documents, like web pages. | `https://app.xtensio.com/templates/#ux-design` | 
