@@ -26,6 +26,7 @@
     - Optimización y estrategia avanzada
     - Actividad práctica: Estrategias de crecimiento y ads
 - **E-mail marketing y automatización**
+    - Fundamentos del E-mail Marketing
 - **Growth en redes**
 - **Publicidad digital en Growth**
 - **SEO y Landing pages**
