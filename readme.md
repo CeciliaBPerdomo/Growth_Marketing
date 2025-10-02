@@ -28,6 +28,7 @@
 - **E-mail marketing y automatización**
     - Fundamentos del E-mail Marketing
     - Segmentación y personalización
+    - Automatización y Growth Hacks
 - **Growth en redes**
 - **Publicidad digital en Growth**
 - **SEO y Landing pages**
