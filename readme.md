@@ -31,6 +31,7 @@
     - Automatización y Growth Hacks
     - Medición y optimización
     - Proyecto final y herramientas
+    - Actividad Práctica: Desata el poder del Email Marketing para impulsar tu negocio
 - **Growth en redes**
 - **Publicidad digital en Growth**
 - **SEO y Landing pages**
