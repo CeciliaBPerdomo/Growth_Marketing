@@ -30,6 +30,7 @@
     - Segmentación y personalización
     - Automatización y Growth Hacks
     - Medición y optimización
+    - Proyecto final y herramientas
 - **Growth en redes**
 - **Publicidad digital en Growth**
 - **SEO y Landing pages**
