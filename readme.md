@@ -33,6 +33,14 @@
     - Proyecto final y herramientas
     - Actividad Práctica: Desata el poder del Email Marketing para impulsar tu negocio
 - **Growth en redes**
+    - Estrategia de Growth en redes
+    - Growth Hacking para redes
+    - Influencers en redes sociales
+    - Hacks para crecer en redes sociales
+    - Cierre y recomendaciones para el proyecto final
+    - Actividad Práctica
+        - Social Media en Growth Marketing
+        - Planificación de Anuncios
 - **Publicidad digital en Growth**
 - **SEO y Landing pages**
 - **Estrategias con GA4**
