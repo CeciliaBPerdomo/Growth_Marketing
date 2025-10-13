@@ -70,3 +70,7 @@
 | **Screaming Frog**| [Screaming Frog - Sitio oficial](https://www.screamingfrog.co.uk/seo-spider/)  |
 | **Guía completa de Screaming Frog** | [Guía completa de Screaming Frog (Ahrefs Blog)](https://ahrefs.com/blog/screaming-frog-seo-spider/)  |
 | **Checklist de SEO Técnico** | [Checklist de SEO Técnico](https://backlinko.com/seo-checklist) | 
+| **Google Analytics 4** | [Google Analytics 4 - Sitio oficial](https://analytics.google.com/)  |
+| **Google Search Console**| [Google Search Console - Sitio oficial](https://search.google.com/search-console)  |
+| **Guía de métricas SEO con GA4** | [Guía de métricas SEO con GA4](https://developers.google.com/analytics)  |
+| **Cómo optimizar con Search Console** | [Cómo optimizar con Search Console](https://support.google.com/webmasters/answer/9128668) |
