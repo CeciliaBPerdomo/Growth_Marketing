@@ -69,6 +69,10 @@
     - Optimización de demanda y Ads
     - Cierre de la Unidad
 - **IA Aplicada al Growth**
+    - Introducción a la IA en el Mkt
+    - Optimización y personalización con IA
+    - Aplicaciones estratégicas de IA
+    - Repaso
 
 ## ​​👾​ Recursos complementarios
 
