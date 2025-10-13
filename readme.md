@@ -53,7 +53,8 @@
     - Herramientas para análisis SEO
     - Optimización de Landing page
     - Conclusiones y cierre
-    - Actividad práctica: Explorando el universo digital: SEO y optimización de landing pages
+    - Actividad práctica
+        - Explorando el universo digital: SEO y optimización de landing pages
 - **Estrategias con GA4**
 - **Psicología y estrategia Growth**
 - **IA Aplicada al Growth**
