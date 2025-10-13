@@ -59,6 +59,10 @@
             - Armado de un Experimento
         - Growth Marketing Flex
 - **Estrategias con GA4**
+    - Introducción a Google Analytics 4
+    - Medición y conversión
+    - Estrategias de Growth
+    - Recomendaciones y cierre
 - **Psicología y estrategia Growth**
 - **IA Aplicada al Growth**
 
