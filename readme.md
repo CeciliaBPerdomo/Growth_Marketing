@@ -49,6 +49,11 @@
     - Actividad Práctica
         - Anuncios: impulsar el Growth en Google Ads y TikTok/Spotify
 - **SEO y Landing pages**
+    - Fundamentos de SEO y SEM
+    - Herramientas para análisis SEO
+    - Optimización de Landing page
+    - Conclusiones y cierre
+    - Actividad práctica: Explorando el universo digital: SEO y optimización de landing pages
 - **Estrategias con GA4**
 - **Psicología y estrategia Growth**
 - **IA Aplicada al Growth**
