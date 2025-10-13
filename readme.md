@@ -96,6 +96,5 @@
 | **Guía de Personalización UX con IA** (Nielsen Norman Group) | `https://www.nngroup.com/articles/personalization-ux/` | 
 
 ## 🧑‍💻 Autor
-
 **Cecilia Perdomo** — Programadora Full Stack apasionada por crear experiencias digitales inteligentes y humanas.  
 📬 *Si te gustó este proyecto, dejá una ⭐ en el repo y seguí explorando el futuro.*
