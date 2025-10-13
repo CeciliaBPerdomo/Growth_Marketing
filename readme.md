@@ -89,3 +89,6 @@
 | **Google Search Console**| `https://search.google.com/search-console`  |
 | **Guía de métricas SEO con GA4** | `https://developers.google.com/analytics` |
 | **Cómo optimizar con Search Console** | `https://support.google.com/webmasters/answer/9128668` |
+| **Documentación oficial de Scikit-Learn** | `https://scikit-learn.org/stable/` |
+| **Kaggle Datasets** | `https://www.kaggle.com/datasets` | 
+| **Google Colab** | `https://colab.research.google.com/` |
