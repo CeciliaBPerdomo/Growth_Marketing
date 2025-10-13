@@ -42,6 +42,12 @@
         - Social Media en Growth Marketing
         - Planificación de Anuncios
 - **Publicidad digital en Growth**
+    - Google Ads
+    - Estrategias en Plataformas Digitales
+    - Innovación en ads digital
+    - Cierre y recomendaciones
+    - Actividad Práctica
+        - Anuncios: impulsar el Growth en Google Ads y TikTok/Spotify
 - **SEO y Landing pages**
 - **Estrategias con GA4**
 - **Psicología y estrategia Growth**
