@@ -64,6 +64,10 @@
     - Estrategias de Growth
     - Recomendaciones y cierre
 - **Psicología y estrategia Growth**
+    - Fundamentos y Psicología de Growth
+    - Experimentación y retención
+    - Optimización de demanda y Ads
+    - Cierre de la Unidad
 - **IA Aplicada al Growth**
 
 ## ​​👾​ Recursos complementarios
