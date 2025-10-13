@@ -55,6 +55,9 @@
     - Conclusiones y cierre
     - Actividad práctica
         - Explorando el universo digital: SEO y optimización de landing pages
+            - Reporte mensual
+            - Armado de un Experimento
+        - Growth Marketing Flex
 - **Estrategias con GA4**
 - **Psicología y estrategia Growth**
 - **IA Aplicada al Growth**
